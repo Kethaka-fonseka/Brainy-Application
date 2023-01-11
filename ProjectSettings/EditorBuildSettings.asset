@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Loading.unity
+    guid: d698957d765e4ce40a96239d138cdc4b
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: d42f342ea470f86429c756525ba4286c
+  - enabled: 1
+    path: Assets/Scenes/Games.unity
+    guid: 67f3880f097479c49ae66ef4f59ad1b0
+  - enabled: 1
+    path: Assets/Scenes/ObjectBasedActivities.unity
+    guid: acdc57a8ddc7d6c4a8efc2a2ef145e1f
+  - enabled: 1
+    path: Assets/unity-sdk-6.0.0/Examples/ExampleStreaming.unity
+    guid: b442792768092494dbb04c41f6154ae2
+  - enabled: 1
+    path: Assets/App/AugmentedReality/Scenes/StoryOne.unity
+    guid: 65de33a4a75052443b22b01a32949a2e
+  - enabled: 1
+    path: Assets/App/AugmentedReality/Scenes/StoryTwo.unity
+    guid: 3f10ccb619e9e4d4e934cf05fc2ec0b4
+  - enabled: 1
+    path: Assets/Scenes/ReTryVoice.unity
+    guid: 48a0d80818be1fd4c85bb2e36bf19036
+  - enabled: 1
+    path: Assets/Scenes/LetterWriting.unity
+    guid: f71d6a1db9cfa694383157258fa0ec85
+  - enabled: 1
+    path: Assets/Scenes/LevelUp.unity
+    guid: 29f9ef1268a23cd4c84aa32675a21d36
+  - enabled: 1
+    path: Assets/Scenes/Find the Answer.unity
+    guid: aeba0fe4108e3034396774d0105cf8d9
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+    guid: 93ad426c02be645409753bb81dd8a058
+  - enabled: 1
+    path: Assets/Scenes/Learn to Read.unity
+    guid: 866956ff63b6bdb419588a5bda548356
+  - enabled: 1
+    path: Assets/Scenes/CriclelFill.unity
+    guid: 930f7aee1ce319045bdab6501df836dc
+  - enabled: 1
+    path: Assets/Scenes/Congrat.unity
+    guid: 471a0eb02bfe924489487df4839ab916
+  - enabled: 1
+    path: Assets/Scenes/ReTry.unity
+    guid: 8da9b0f6df971744582cb7d8dc7349ac
+  - enabled: 1
+    path: Assets/App/ObjectDetection/ObjectDetectionYoloV4.unity
+    guid: 67c7fd88e168bf54695e7f5ccac2a7ba
+  - enabled: 1
+    path: Assets/Scenes/GameStartPanel.unity
+    guid: 718f3c943b505b446a5766a272adda64
+  - enabled: 1
+    path: Assets/Scenes/Score.unity
+    guid: 594fbef703a67ee41b2f63490bf835d5
+  - enabled: 1
+    path: Assets/Scenes/CongratVoice.unity
+    guid: a8bde6fd11ee02947b3fb2fa65105f8e
+  - enabled: 1
+    path: Assets/SpeechAndText/Sample/SampleSpeechToText.unity
+    guid: d9447599b4cad0245ac00fa552c354b6
+  - enabled: 1
+    path: Assets/Scenes/CriclelFillVoice.unity
+    guid: 5dc4d78d2380a094081fb6419ecb96cf
+  - enabled: 1
+    path: Assets/Scenes/GameLevel/00_Level Selection.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 91213b61fbf1a0f409cbb3463ec226a8, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 45795ceb0aad5f4498166aa1bee961b9, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 17545291e6826f449a92d6e05abb334f, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 0d8ddc61b9d077a489df421e887206a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: c8555465ae1ff55429626640f10f7951, type: 2}
